@@ -1,4 +1,8 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/demo.elf.dir/Core/Src/can.c.obj"
+  "CMakeFiles/demo.elf.dir/Core/Src/can.c.obj.d"
+  "CMakeFiles/demo.elf.dir/Core/Src/gpio.c.obj"
+  "CMakeFiles/demo.elf.dir/Core/Src/gpio.c.obj.d"
   "CMakeFiles/demo.elf.dir/Core/Src/main.c.obj"
   "CMakeFiles/demo.elf.dir/Core/Src/main.c.obj.d"
   "CMakeFiles/demo.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj"

@@ -128,6 +128,54 @@ demo.elf/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\demo.elf.dir\build.make CMakeFiles/demo.elf.dir/build
 .PHONY : demo.elf/fast
 
+Core/Src/can.obj: Core/Src/can.c.obj
+.PHONY : Core/Src/can.obj
+
+# target to build an object file
+Core/Src/can.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\demo.elf.dir\build.make CMakeFiles/demo.elf.dir/Core/Src/can.c.obj
+.PHONY : Core/Src/can.c.obj
+
+Core/Src/can.i: Core/Src/can.c.i
+.PHONY : Core/Src/can.i
+
+# target to preprocess a source file
+Core/Src/can.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\demo.elf.dir\build.make CMakeFiles/demo.elf.dir/Core/Src/can.c.i
+.PHONY : Core/Src/can.c.i
+
+Core/Src/can.s: Core/Src/can.c.s
+.PHONY : Core/Src/can.s
+
+# target to generate assembly for a file
+Core/Src/can.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\demo.elf.dir\build.make CMakeFiles/demo.elf.dir/Core/Src/can.c.s
+.PHONY : Core/Src/can.c.s
+
+Core/Src/gpio.obj: Core/Src/gpio.c.obj
+.PHONY : Core/Src/gpio.obj
+
+# target to build an object file
+Core/Src/gpio.c.obj:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\demo.elf.dir\build.make CMakeFiles/demo.elf.dir/Core/Src/gpio.c.obj
+.PHONY : Core/Src/gpio.c.obj
+
+Core/Src/gpio.i: Core/Src/gpio.c.i
+.PHONY : Core/Src/gpio.i
+
+# target to preprocess a source file
+Core/Src/gpio.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\demo.elf.dir\build.make CMakeFiles/demo.elf.dir/Core/Src/gpio.c.i
+.PHONY : Core/Src/gpio.c.i
+
+Core/Src/gpio.s: Core/Src/gpio.c.s
+.PHONY : Core/Src/gpio.s
+
+# target to generate assembly for a file
+Core/Src/gpio.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles\demo.elf.dir\build.make CMakeFiles/demo.elf.dir/Core/Src/gpio.c.s
+.PHONY : Core/Src/gpio.c.s
+
 Core/Src/main.obj: Core/Src/main.c.obj
 .PHONY : Core/Src/main.obj
 
@@ -625,6 +673,12 @@ help:
 	@echo ... edit_cache
 	@echo ... rebuild_cache
 	@echo ... demo.elf
+	@echo ... Core/Src/can.obj
+	@echo ... Core/Src/can.i
+	@echo ... Core/Src/can.s
+	@echo ... Core/Src/gpio.obj
+	@echo ... Core/Src/gpio.i
+	@echo ... Core/Src/gpio.s
 	@echo ... Core/Src/main.obj
 	@echo ... Core/Src/main.i
 	@echo ... Core/Src/main.s

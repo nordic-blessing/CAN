@@ -30,6 +30,8 @@ set(CMAKE_ASM_TARGET_INCLUDE_PATH
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "E:/myscu/LEGION/learn/CAN/demo/Core/Src/can.c" "CMakeFiles/demo.elf.dir/Core/Src/can.c.obj" "gcc" "CMakeFiles/demo.elf.dir/Core/Src/can.c.obj.d"
+  "E:/myscu/LEGION/learn/CAN/demo/Core/Src/gpio.c" "CMakeFiles/demo.elf.dir/Core/Src/gpio.c.obj" "gcc" "CMakeFiles/demo.elf.dir/Core/Src/gpio.c.obj.d"
   "E:/myscu/LEGION/learn/CAN/demo/Core/Src/main.c" "CMakeFiles/demo.elf.dir/Core/Src/main.c.obj" "gcc" "CMakeFiles/demo.elf.dir/Core/Src/main.c.obj.d"
   "E:/myscu/LEGION/learn/CAN/demo/Core/Src/stm32f1xx_hal_msp.c" "CMakeFiles/demo.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" "gcc" "CMakeFiles/demo.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj.d"
   "E:/myscu/LEGION/learn/CAN/demo/Core/Src/stm32f1xx_it.c" "CMakeFiles/demo.elf.dir/Core/Src/stm32f1xx_it.c.obj" "gcc" "CMakeFiles/demo.elf.dir/Core/Src/stm32f1xx_it.c.obj.d"

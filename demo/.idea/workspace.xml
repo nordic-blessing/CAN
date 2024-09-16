@@ -20,96 +20,42 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb20f6f6-a8b0-4a65-903c-95c5e4acf4bf" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Core/Inc/can.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Core/Src/can.c" afterDir="false" />
+    <list default="true" id="d181eb1d-0070-451b-b59f-3f33f7d7c789" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../CAN及电机学习/例程/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.cproject" beforeDir="false" afterPath="$PROJECT_DIR$/.cproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/demo.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/OCD_demo.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/OCD_demo.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.mxproject" beforeDir="false" afterPath="$PROJECT_DIR$/.mxproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.project" beforeDir="false" afterPath="$PROJECT_DIR$/.project" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f030x6.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32F0xx/Include/stm32f0xx.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32F0xx/Include/system_stm32f0xx.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/CMSIS/Device/ST/STM32F0xx/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_cortex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_def.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_dma.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_dma_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_exti.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_flash_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_gpio.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_gpio_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_i2c_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_pwr_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_rcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_rcc_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_tim.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_hal_tim_ex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_bus.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_cortex.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_crs.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_dma.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_exti.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_gpio.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_pwr.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_rcc.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_system.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Inc/stm32f0xx_ll_utils.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_cortex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_dma.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_exti.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_flash_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_gpio.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_i2c_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_pwr_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_rcc_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Drivers/STM32F0xx_HAL_Driver/Src/stm32f0xx_hal_tim_ex.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inc/main.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inc/stm32f0xx_hal_conf.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Inc/stm32f0xx_it.h" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/STM32F030F4PX_FLASH.ld" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/main.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/stm32f0xx_hal_msp.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/stm32f0xx_it.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/syscalls.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/sysmem.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Src/system_stm32f0xx.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Startup/startup_stm32f030f4px.s" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/.cmake/api/v1/reply/codemodel-v2-507d888075f44399df37.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/.cmake/api/v1/reply/index-2024-09-15T08-16-09-0571.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/.cmake/api/v1/reply/target-demo.elf-Debug-57800fd2270f8e76bc06.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/can.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Inc/stm32f1xx_it.h" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Inc/stm32f1xx_it.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/can.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/main.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/main.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/stm32f1xx_hal_msp.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_hal_msp.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" beforeDir="false" afterPath="$PROJECT_DIR$/Core/Src/stm32f1xx_it.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/.cmake/api/v1/reply/codemodel-v2-484c5af5e4d84d49dd7e.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/.cmake/api/v1/reply/index-2024-09-16T01-42-17-0943.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/.cmake/api/v1/reply/target-demo.elf-Debug-f2dcd6fcad4245b904ad.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/3.28.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/CMakeConfigureLog.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/clion-Debug-MinGW_STM32-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/clion-Debug-MinGW_STM32-log.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/Core/Src/main.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/Core/Src/main.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/Core/Src/main.c.obj.d" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/Core/Src/main.c.obj.d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/Core/Src/stm32f1xx_hal_msp.c.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/Core/Src/stm32f1xx_it.c.obj" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/Core/Src/stm32f1xx_it.c.obj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/DependInfo.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/DependInfo.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/build.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/build.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/cmake_clean.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/cmake_clean.cmake" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/depend.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/depend.make" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/flags.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/flags.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/link.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/link.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/progress.make" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/demo.elf.dir/progress.make" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/progress.marks" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/CMakeFiles/progress.marks" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/demo.bin" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/demo.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/demo.elf" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/demo.elf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/demo.hex" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/demo.hex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/demo.map" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-mingw_stm32/demo.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/demo.ioc" beforeDir="false" afterPath="$PROJECT_DIR$/demo.ioc" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,9 +82,6 @@
     &quot;accountId&quot;: &quot;6555b7b3-6c54-4671-a16c-634ea1c82508&quot;
   }
 }</component>
-  <component name="PerforceDirect.Settings">
-    <option name="CHARSET" value="无" />
-  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2024" />
@@ -146,9 +89,9 @@
     <option name="productBranch" value="Classic" />
   </component>
   <component name="ProjectColorInfo">{
-  &quot;associatedIndex&quot;: 2
+  &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="2m6DDyFLTSbaH3MzolmP4d3dqkO" />
+  <component name="ProjectId" id="2m9XcGMldiP3T2Yo0QQ5CBGIIEl" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -171,9 +114,9 @@
   }
 }</component>
   <component name="RunManager" selected="OpenOCD 下载并运行.OCD demo">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="demo.elf" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="demo" TARGET_NAME="demo.elf" CONFIG_NAME="Debug-MinGW_STM32" RUN_TARGET_PROJECT_NAME="demo" RUN_TARGET_NAME="demo.elf">
@@ -189,13 +132,12 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
-      <changelist id="cb20f6f6-a8b0-4a65-903c-95c5e4acf4bf" name="更改" comment="" />
-      <created>1726388016488</created>
+      <changelist id="d181eb1d-0070-451b-b59f-3f33f7d7c789" name="更改" comment="" />
+      <created>1726489843733</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1726388016488</updated>
-      <workItem from="1726388019412" duration="2046000" />
-      <workItem from="1726449624266" duration="6710000" />
+      <updated>1726489843733</updated>
+      <workItem from="1726489854976" duration="1624000" />
     </task>
     <servers />
   </component>

@@ -1,5 +1,6 @@
-CMakeFiles/demo.elf.dir/Core/Src/main.c.obj: \
- E:\myscu\LEGION\learn\CAN\demo\Core\Src\main.c \
+CMakeFiles/demo.elf.dir/Core/Src/gpio.c.obj: \
+ E:\myscu\LEGION\learn\CAN\demo\Core\Src\gpio.c \
+ E:\myscu\LEGION\learn\CAN\demo\Core\Inc/gpio.h \
  E:\myscu\LEGION\learn\CAN\demo\Core\Inc/main.h \
  E:\myscu\LEGION\learn\CAN\demo\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal.h \
  E:\myscu\LEGION\learn\CAN\demo\Core\Inc/stm32f1xx_hal_conf.h \
@@ -31,7 +32,4 @@ CMakeFiles/demo.elf.dir/Core/Src/main.c.obj: \
  E:\myscu\LEGION\learn\CAN\demo\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_cortex.h \
  E:\myscu\LEGION\learn\CAN\demo\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash.h \
  E:\myscu\LEGION\learn\CAN\demo\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_flash_ex.h \
- E:\myscu\LEGION\learn\CAN\demo\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_pwr.h \
- E:\myscu\LEGION\learn\CAN\demo\Core\Inc/can.h \
- E:\myscu\LEGION\learn\CAN\demo\Core\Inc/main.h \
- E:\myscu\LEGION\learn\CAN\demo\Core\Inc/gpio.h
+ E:\myscu\LEGION\learn\CAN\demo\Drivers\STM32F1xx_HAL_Driver\Inc/stm32f1xx_hal_pwr.h

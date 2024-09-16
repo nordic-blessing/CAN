@@ -80,12 +80,12 @@ clean: CMakeFiles/demo.elf.dir/clean
 CMakeFiles/demo.elf.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\demo.elf.dir\build.make CMakeFiles/demo.elf.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\demo.elf.dir\build.make CMakeFiles/demo.elf.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=E:\myscu\LEGION\learn\CAN\demo\cmake-build-debug-mingw_stm32\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22 "Built target demo.elf"
+	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --progress-dir=E:\myscu\LEGION\learn\CAN\demo\cmake-build-debug-mingw_stm32\CMakeFiles --progress-num=1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24 "Built target demo.elf"
 .PHONY : CMakeFiles/demo.elf.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/demo.elf.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start E:\myscu\LEGION\learn\CAN\demo\cmake-build-debug-mingw_stm32\CMakeFiles 22
+	$(CMAKE_COMMAND) -E cmake_progress_start E:\myscu\LEGION\learn\CAN\demo\cmake-build-debug-mingw_stm32\CMakeFiles 24
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/demo.elf.dir/all
 	$(CMAKE_COMMAND) -E cmake_progress_start E:\myscu\LEGION\learn\CAN\demo\cmake-build-debug-mingw_stm32\CMakeFiles 0
 .PHONY : CMakeFiles/demo.elf.dir/rule
